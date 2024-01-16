@@ -3,9 +3,9 @@
     "short_name": "mexweb",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "Pagina oficial de Mexa Web",
+    "background_color": "#F3F3EB",
+    "theme_color": "#F3F3EB",
+    "description": "Elevate your business's online presence with MexWeb! Are you prepared to propel your brand to new heights with a standout website? We turn that possibility into a reality!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
